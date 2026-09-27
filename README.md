@@ -148,6 +148,8 @@ The examples use Python and may use:
 - SciPy
 - PyTorch
 - XGBoost, CatBoost, and LightGBM where appropriate
+- Tranformers 
+
 
 ## Status
 
